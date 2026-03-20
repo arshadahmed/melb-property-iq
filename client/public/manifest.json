@@ -1,0 +1,12 @@
+{
+  "name": "PropIQ Melbourne",
+  "short_name": "PropIQ",
+  "description": "Melbourne Property Investment Intelligence",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e1117",
+  "theme_color": "#0e1117",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
